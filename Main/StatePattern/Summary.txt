@@ -1,0 +1,4 @@
+﻿State pattern
+
+=> Refer to Tactical Design Pattern in .NET:
+Control Flow course
